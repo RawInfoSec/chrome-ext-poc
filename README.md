@@ -12,4 +12,8 @@ We're using real world sites to show this works despite their security steps.
 
 - https://sarnia.evote2018.ca
 - https://ajax.simplyvoting.com/
+<<<<<<< HEAD
 - https://www.intvoting.com/Cambridge2018/Default.aspx
+=======
+- https://www.intvoting.com/Cambridge2018/Default.aspx
+>>>>>>> a739d632293273ccaecaf9ff940a41afb6bfc454
