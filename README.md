@@ -10,6 +10,6 @@ Basic working example to show that online voting is highly susceptible to in-bro
 
 We're using real world sites to show this works despite their security steps.
 
-https://sarnia.evote2018.ca
-https://ajax.simplyvoting.com/
-https://www.intvoting.com/Cambridge2018/Default.aspx
+- https://sarnia.evote2018.ca
+- https://ajax.simplyvoting.com/
+- https://www.intvoting.com/Cambridge2018/Default.aspx
