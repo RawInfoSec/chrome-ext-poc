@@ -13,3 +13,5 @@ We're using real world sites to show this works despite their security steps.
 - https://sarnia.evote2018.ca
 - https://ajax.simplyvoting.com/
 - https://www.intvoting.com/Cambridge2018/Default.aspx
+
+UPDATE: Most of the online voting systems are no longer available to test against.
